@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # twariel
 
 ## Project setup
@@ -17,3 +18,6 @@ npm run build
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+# twariel
+>>>>>>> 3f559524309adc666b222807fa21252f20306959
