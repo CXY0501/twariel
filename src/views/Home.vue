@@ -1,5 +1,8 @@
 <template>
   <div class="home">
+    <div @click="test">
+      <h1>hahahahahahahhahaa</h1>
+    </div>
     <picture class="picture">
       <source
         media="(max-width: 767px)"
@@ -195,6 +198,11 @@
 export default {
   name: "Home",
   components: {},
+  methods: {
+    test() {
+      console.log("hahahahahaa");
+    },
+  },
 };
 </script>
 
